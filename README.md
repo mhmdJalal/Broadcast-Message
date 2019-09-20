@@ -31,7 +31,7 @@
 ![Imgur](https://i.imgur.com/tmwI9fUl.png)
 
 ### 5. Broadcast Email
-!https://i.imgur.com/3Cpztrsl.png
+![Imgur](https://i.imgur.com/3Cpztrsl.png)
 
 ### 6. Broadcast SMS
 ![Imgur](https://i.imgur.com/T8Dmd15l.png)
